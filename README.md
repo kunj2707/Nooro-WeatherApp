@@ -4,9 +4,9 @@ This Weather App provides real-time weather updates for your saved city. It fetc
 
 -------------------------
 
-**Features**
+# Features
 
-1. Home Screen
+**1. Home Screen**
 - Displays weather details for a single saved city:
   - City name.
   - Temperature.
@@ -17,7 +17,7 @@ This Weather App provides real-time weather updates for your saved city. It fetc
 - If no city is saved, the app prompts the user to search for a city.
 - Includes a search bar for querying new cities.
 
-2. Search Behavior
+**2. Search Behavior**
 - Displays a search result card for the queried city.
 - Tapping on a search result:
   - Updates the Home Screen with the selected city's weather information.
@@ -25,7 +25,7 @@ This Weather App provides real-time weather updates for your saved city. It fetc
 
 --------------------------
 
-**Running the Xcode Project**
+# Running the Xcode Project
 
 Follow these steps to run the Weather App in Xcode:
 
@@ -54,5 +54,7 @@ API_KEY = <YOUR_API_KEY>
 - Select a simulator or a connected device in Xcode.
 - Press Cmd + R or click the Run button to build and launch the app.
 
-**Notes**
+--------------------------
+
+# Notes
 - If you encounter issues with the API key or weather data fetching, double-check your configuration and API key validity.
