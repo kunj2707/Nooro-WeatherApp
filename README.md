@@ -7,19 +7,19 @@ This Weather App provides real-time weather updates for your saved city. It fetc
 **Features**
 
 1. Home Screen
-• Displays weather details for a single saved city:
+- Displays weather details for a single saved city:
   - City name.
   - Temperature.
   - Weather condition (with corresponding icon from the API).
   - Humidity (%).
   - UV index.
   - "Feels like" temperature.
-• If no city is saved, the app prompts the user to search for a city.
-• Includes a search bar for querying new cities.
+- If no city is saved, the app prompts the user to search for a city.
+- Includes a search bar for querying new cities.
 
 2. Search Behavior
-• Displays a search result card for the queried city.
-• Tapping on a search result:
+- Displays a search result card for the queried city.
+- Tapping on a search result:
   - Updates the Home Screen with the selected city's weather information.
   - Saves the selected city for persistence.
 
